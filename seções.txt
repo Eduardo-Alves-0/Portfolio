@@ -1,0 +1,77 @@
+📌 1. Início (Home)
+    Uma apresentação rápida e objetiva sobre quem você é, com foto (opcional), sua área de atuação e um botão para download do seu currículo.
+
+👨‍💻 2. Sobre mim
+    Um resumo mais completo com:
+
+    Formação (ex: cursando Análise e Desenvolvimento de Sistemas na Uninassau)
+
+    Interesses (backend, segurança, IA, projetos com impacto social)
+
+    Soft skills (organizado, comunicativo, autodidata...)
+
+    Contato (WhatsApp e e-mail)
+
+🛠️ 3. Habilidades (Skills)
+    Divididas por categorias:
+
+    Frontend: HTML, CSS, JavaScript (básico)
+
+    Backend: Node.js (planejamento), JavaScript
+
+    Banco de Dados: Noções em SQL
+
+    Ferramentas: Git, GitHub, VS Code, Google Colab
+
+    Outros: Engenharia de Software, modelagem de dados, inglês técnico
+
+📂 4. Projetos
+    Destaque os principais, como:
+
+    SRFMPC (Reconhecimento facial para segurança)
+
+    Sistema de declaração de gênero
+
+    To-Do List com JavaScript
+
+    Jogo de Adivinhação
+
+    Calculadora de IMC
+    Inclua:
+
+     Nome do projeto
+
+        Descrição breve
+
+        Tecnologias usadas
+
+        Link para GitHub
+
+        Imagens ou vídeo de demonstração (se tiver)
+
+🧠 5. Certificados
+    Lista (ou imagens) dos cursos concluídos, com nome do curso, instituição e ano.
+
+🗒️ 6. Blog ou Artigos (opcional)
+    Espaço para escrever sobre:
+
+    Aprendizados com JavaScript
+
+    Experiências com projetos
+
+    Dicas para iniciantes
+    (Boa para mostrar comunicação técnica)
+
+📬 7. Contato
+    Formulário simples com:
+
+    Nome
+
+    E-mail
+
+    Mensagem
+    E seus links de contato direto:
+
+    Email: eduardu0220@gmail.com
+
+    WhatsApp: (81) 99475-5907
